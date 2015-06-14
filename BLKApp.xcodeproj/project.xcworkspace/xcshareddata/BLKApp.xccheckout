@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>660EE39A-8E84-4CB2-BEE4-060F46EE5585</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BLKApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFFA4A583DE3D918B8BE380AC4D948866A650E84</key>
+		<string>https://github.com/yaole817/ipad_bluetoooth</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BLKApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFFA4A583DE3D918B8BE380AC4D948866A650E84</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yaole817/ipad_bluetoooth</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFFA4A583DE3D918B8BE380AC4D948866A650E84</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFFA4A583DE3D918B8BE380AC4D948866A650E84</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BLKApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
